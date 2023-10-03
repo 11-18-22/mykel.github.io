@@ -1,0 +1,5 @@
+add this code on line 40 if u want writing text
+
+	<script>
+          type([" mykel", "mykel.bio", " `(*>﹏<*)′"], typewriterElement, textIndex, charIndex, isDeleting, isLineVisible);
+        </script>
